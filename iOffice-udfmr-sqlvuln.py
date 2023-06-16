@@ -1,6 +1,6 @@
 #!/usr/bin/python3.7
 # -*- coding: utf-8 -*-
-
+# fofa: body="./iOffice/prg/welcome/GetBoxyStatus.ashx?mode=login" 
 
 import os
 import time
