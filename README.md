@@ -1,6 +1,7 @@
 # iOffice-udfmr-sqlvuln
 
-红帆OA iOffice.net udfmr.asmx接口处存在SQL注入漏洞
+红帆OA iOffice.net udfmr.asmx接口存在SQL注入漏洞
+
 
 ## Usage
 
